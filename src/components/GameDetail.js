@@ -85,7 +85,7 @@ const Info = styled(motion.div)`
 const Platforms = styled(motion.div)`
   display: flex;
   justify-content: space-evenly;
-  img{
+  img {
     margin-left: 3rem;
   }
 `

@@ -54,6 +54,8 @@ const GameDetail = ({ pathId }) => {
         return xbox
       case 'PC':
         return steam
+      case 'macOS':
+        return apple
       case 'Nintendo Switch':
         return nintendo
       case 'iOS':
